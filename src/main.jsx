@@ -16,7 +16,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Router>
     <Routes>
-      <Route path='/' element={<Layout />}></Route>
+      <Route path='https://brijesh1990.github.io/groceryapp/' element={<Layout />}></Route>
       <Route path='/admin-login' element={<Login />}></Route>
       <Route path='/admin-login/dashboard' element={<AdminLayout />}></Route>
       <Route path='/admin-login/add-category' element={<AddCategory />}></Route>
