@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss()
   ],
 
-  base: "/groceryapp/"
+  base: "/groceryapp/#/"
 })
