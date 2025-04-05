@@ -1,0 +1,34 @@
+{
+  "category": [
+    {
+      "catname": "Dry fruits",
+      "catdesc": "dry fruits badam is good",
+      "id": "4fa1"
+    },
+    {
+      "catname": "Apple fruits",
+      "catdesc": "good for vitamin c",
+      "id": "e903"
+    },
+    {
+      "catname": "Flower vegetables",
+      "catdesc": "good for viitamin a",
+      "id": "9362"
+    }
+  ],
+  "add-items": [
+    {
+      "id": "6213",
+      "catname": "Dry fruits",
+      "itemsname": "Badam",
+      "photo": "https://t4.ftcdn.net/jpg/09/74/61/05/360_F_974610582_hFgiYxR7qQlypRjnJiyhf9LOHYXxYaK4.webp",
+      "price": "1050",
+      "desc": "good for health"
+    }
+  ],
+  "carts": [],
+  "orders": [],
+  "customers": [],
+  "reviews": [],
+  "contacts": []
+}
